@@ -34,7 +34,7 @@ Gauges were chosen to showcase the the information as a type of meter. The min a
 
 ## Donut Chart
 
-![Donut Chart](assets/images/donut_chart.png)
+![Donut Chart](assets/images/donut_chart.PNG)
 
 Field used:
 - Easiness of entering field
@@ -43,7 +43,7 @@ The Donut Chart was chose because it is commonly used. It is also good at compar
 
 ## Stacked Bar Chart
 
-![Stacked Bar Chart](assets/images/stacked_bar_chart_png)
+![Stacked Bar Chart](assets/images/stacked_bar_chart_PNG)
 
 Fields used:
 - Job Title
@@ -53,7 +53,7 @@ The stacked bar chart is good for comparing simple values.
 
 ## Stacked Column Chart
 
-![Stacked Column Chart](assets/images/stacked_column_chart.png)
+![Stacked Column Chart](assets/images/stacked_column_chart.PNG)
 
 Fields used:
 - Count per Language
@@ -72,8 +72,8 @@ The tree map easily lets us list several regions next to each and size them acco
 
 # Dashboard
 
-![Dashboard](assets/images/survey_dashboard.png)
+![Dashboard](assets/images/survey_dashboard.PNG)
 
-![Dasboard Interactive Preview](survey_dashboard_bi.gif)
+![Dasboard Interactive Preview](assets/images/survey_dashboard_bi.gif)
 
 [Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYTZkMjkxZTUtYTIyMS00MWFjLWFhNzEtZTNlZWI5M2Q4MWFjIiwidCI6IjRiZjk1MzI5LTBiMzAtNGY5Yi1iMmUxLWFmNjgyYWVhZDViYyIsImMiOjJ9)
