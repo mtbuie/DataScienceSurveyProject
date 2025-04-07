@@ -63,7 +63,7 @@ Allows us to compare multiple groups per value.
 
 ## Tree Map
 
-![Tree Map](assets/images/treemap.png)
+![Tree Map](assets/images/treemap.PNG)
 
 Fields used:
 - Country
