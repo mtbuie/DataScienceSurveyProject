@@ -43,7 +43,7 @@ The Donut Chart was chose because it is commonly used. It is also good at compar
 
 ## Stacked Bar Chart
 
-![Stacked Bar Chart](assets/images/stacked_bar_chart_PNG)
+![Stacked Bar Chart](assets/images/stacked_bar_chart.PNG)
 
 Fields used:
 - Job Title
