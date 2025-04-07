@@ -24,7 +24,7 @@ We used cards for these values because they important numbers that we want to st
 
 ## Gauges
 
-![Gauges}(assets/images/gauges.PNG)  
+![Gauges](assets/images/gauges.PNG)  
 
 Fields used:
 - Happiness with Work/Life Balance
@@ -34,16 +34,16 @@ Gauges were chosen to showcase the the information as a type of meter. The min a
 
 ## Donut Chart
 
-Image
+![Donut Chart](assets/images/donut_chart.png)
 
 Field used:
 - Easiness of entering field
 
 The Donut Chart was chose because it is commonly used. It is also good at comparing how large of a percentage each option takes up.
 
-## Stack Bar Chart
+## Stacked Bar Chart
 
-Image
+![Stacked Bar Chart](assets/images/stacked_bar_chart_png)
 
 Fields used:
 - Job Title
@@ -53,7 +53,7 @@ The stacked bar chart is good for comparing simple values.
 
 ## Stacked Column Chart
 
-Image
+![Stacked Column Chart](assets/images/stacked_column_chart.png)
 
 Fields used:
 - Count per Language
@@ -63,10 +63,17 @@ Allows us to compare multiple groups per value.
 
 ## Tree Map
 
-Image
+![Tree Map](assets/images/treemap.png)
 
 Fields used:
 - Country
 
 The tree map easily lets us list several regions next to each and size them according to their values.
- 
+
+# Dashboard
+
+![Dashboard](assets/images/survey_dashboard.png)
+
+![Dasboard Interactive Preview](survey_dashboard_bi.gif)
+
+[Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYTZkMjkxZTUtYTIyMS00MWFjLWFhNzEtZTNlZWI5M2Q4MWFjIiwidCI6IjRiZjk1MzI5LTBiMzAtNGY5Yi1iMmUxLWFmNjgyYWVhZDViYyIsImMiOjJ9)
