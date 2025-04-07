@@ -8,7 +8,7 @@ Our goal is to learn and experiment with using multiple different types of visua
 
 # Data 
 
-The data comes from [Kaggle}(https://www.kaggle.com/datasets/ahmedmohamedibrahim1/data-professional-survey-breakdown) It was already mostly ready for use. We just had to remove a few unneeded columns.
+The data comes from [Kaggle](https://www.kaggle.com/datasets/ahmedmohamedibrahim1/data-professional-survey-breakdown) It was already mostly ready for use. We just had to remove a few unneeded columns.
 
 # Choosing the visuals 
 
@@ -74,6 +74,6 @@ The tree map easily lets us list several regions next to each and size them acco
 
 ![Dashboard](assets/images/survey_dashboard.PNG)
 
-![Dasboard Interactive Preview](assets/images/survey_dashboard_bi.gif)
+![Dasboard Interactive Preview](assets/images/survey_dashboard_live.gif)
 
 [Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYTZkMjkxZTUtYTIyMS00MWFjLWFhNzEtZTNlZWI5M2Q4MWFjIiwidCI6IjRiZjk1MzI5LTBiMzAtNGY5Yi1iMmUxLWFmNjgyYWVhZDViYyIsImMiOjJ9)
